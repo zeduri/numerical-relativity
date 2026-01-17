@@ -1,5 +1,5 @@
-# notebooks
-Repository for my Jupyter notebooks
+# Numerical Relativity 
+Repository containing the notebooks and exercises seen during the class of Numerical Relativity (2023) held by Prof. Bruno Giacomazzo at Univeristy of Milano-Bicocca.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bgiacoma/notebooks/HEAD)
 
